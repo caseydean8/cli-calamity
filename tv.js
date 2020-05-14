@@ -9,7 +9,6 @@ var TV = function () {
       .get(URL)
       .then((res) => {
         const show = res.data;
-        console.log(show);
         const name = show.name;
         const genre = show.genres.toString();
         const rating = show.rating.average;

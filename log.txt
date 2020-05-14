@@ -38,3 +38,103 @@ Gender: Male
 Country: United States
 
 URL: http://www.tvmaze.com/people/45790/brad-pitt
+
+Name: The Andy Griffith Show
+
+Genre: Comedy
+
+Rating: 8.8
+
+Network: CBS
+
+Summary: Down-home humor and an endearing cast of characters helped to make The Andy Griffith Show one of the most beloved comedies in the history of television. Introduced as a spinoff from The Danny Thomas Show in 1960, The Andy Griffith Show ran for eight seasons in prime time. Widower Andy Taylor divides his time between raising his young son, Opie, and his job as sheriff (and Justice of the Peace) of the sleepy North Carolina town, Mayberry. Andy and Opie live with Andy's Aunt Bee, who serves as a surrogate mother to both father and son. Andy's nervous cousin, Barney Fife, is his deputy sheriff whose utter incompetence is tolerated because Mayberry is virtually crime-free.
+
+Name: Scrubs
+
+Genre: Drama,Comedy,Medical
+
+Rating: 8.7
+
+Network: ABC
+
+Summary: Fresh out of medical school, new doctors John "J.D." Dorian, his best friend Christopher Turk, and Elliot Reid start their internship at Sacred Heart Hospital. There, they meet the harsh Chief of Medicine Dr. Bob Kelso, J.D.'s reluctant mentor Dr. Perry Cox, nurse Carla Espinosa, and the deceitful and prankish Janitor. Also at the hospital are the wide range of personalities of Sacred Heart's staff, including the religious nurse Laverne Roberts, incompetent lawyer Ted Buckland, and spiteful board member Jordan Sullivan who also happens to be Cox's ex-wife. Other interns make the cut, such as the high-fiving Todd Quinlan and nervous Doug Murphy. Over the next 9 years they face personal and professional highs and lows, realizing that they can't make it through life - much less a hectic job as a doctor - on their own.
+
+Name: Michael J. Fox
+
+Birthday: 1961-06-09
+
+Gender: Male
+
+Country: Canada
+
+URL: http://www.tvmaze.com/people/20376/michael-j-fox
+
+Name: Parks and Recreation
+
+Genre: Comedy
+
+Rating: 8.5
+
+Network: NBC
+
+Summary: Parks and Recreation is a comedy series based around the main character Leslie Knope (a bureaucrat) in the parks department of Pawnee.
+
+Name: Parks and Recreation
+
+Genre: Comedy
+
+Rating: 8.5
+
+Network: NBC
+
+Summary: Parks and Recreation is a comedy series based around the main character Leslie Knope (a bureaucrat) in the parks department of Pawnee.
+
+Name: Scrubs
+
+Genre: Drama,Comedy,Medical
+
+Rating: 8.7
+
+Network: ABC
+
+Summary: Fresh out of medical school, new doctors John "J.D." Dorian, his best friend Christopher Turk, and Elliot Reid start their internship at Sacred Heart Hospital. There, they meet the harsh Chief of Medicine Dr. Bob Kelso, J.D.'s reluctant mentor Dr. Perry Cox, nurse Carla Espinosa, and the deceitful and prankish Janitor. Also at the hospital are the wide range of personalities of Sacred Heart's staff, including the religious nurse Laverne Roberts, incompetent lawyer Ted Buckland, and spiteful board member Jordan Sullivan who also happens to be Cox's ex-wife. Other interns make the cut, such as the high-fiving Todd Quinlan and nervous Doug Murphy. Over the next 9 years they face personal and professional highs and lows, realizing that they can't make it through life - much less a hectic job as a doctor - on their own.
+
+Name: Scrubs
+
+Genre: Drama,Comedy,Medical
+
+Rating: 8.7
+
+Network: ABC
+
+Summary: Fresh out of medical school, new doctors John "J.D." Dorian, his best friend Christopher Turk, and Elliot Reid start their internship at Sacred Heart Hospital. There, they meet the harsh Chief of Medicine Dr. Bob Kelso, J.D.'s reluctant mentor Dr. Perry Cox, nurse Carla Espinosa, and the deceitful and prankish Janitor. Also at the hospital are the wide range of personalities of Sacred Heart's staff, including the religious nurse Laverne Roberts, incompetent lawyer Ted Buckland, and spiteful board member Jordan Sullivan who also happens to be Cox's ex-wife. Other interns make the cut, such as the high-fiving Todd Quinlan and nervous Doug Murphy. Over the next 9 years they face personal and professional highs and lows, realizing that they can't make it through life - much less a hectic job as a doctor - on their own.
+
+Name: Scrubs
+
+Genre: Drama,Comedy,Medical
+
+Rating: 8.7
+
+Network: ABC
+
+Summary: Fresh out of medical school, new doctors John "J.D." Dorian, his best friend Christopher Turk, and Elliot Reid start their internship at Sacred Heart Hospital. There, they meet the harsh Chief of Medicine Dr. Bob Kelso, J.D.'s reluctant mentor Dr. Perry Cox, nurse Carla Espinosa, and the deceitful and prankish Janitor. Also at the hospital are the wide range of personalities of Sacred Heart's staff, including the religious nurse Laverne Roberts, incompetent lawyer Ted Buckland, and spiteful board member Jordan Sullivan who also happens to be Cox's ex-wife. Other interns make the cut, such as the high-fiving Todd Quinlan and nervous Doug Murphy. Over the next 9 years they face personal and professional highs and lows, realizing that they can't make it through life - much less a hectic job as a doctor - on their own.
+
+Name: Parks and Recreation
+
+Genre: Comedy
+
+Rating: 8.5
+
+Network: NBC
+
+Summary: Parks and Recreation is a comedy series based around the main character Leslie Knope (a bureaucrat) in the parks department of Pawnee.
+
+Name: Kurtwood Smith
+
+Birthday: 1943-07-03
+
+Gender: Male
+
+Country: United States
+
+URL: http://www.tvmaze.com/people/6327/kurtwood-smith

@@ -9,7 +9,6 @@ var Actor = function () {
       .get(URL)
       .then((res) => {
         const act = res.data[0].person;
-        // console.log(act);
         const name = act.name;
         const birthday = act.birthday;
         const gender = act.gender;
