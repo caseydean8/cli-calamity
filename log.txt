@@ -1,0 +1,40 @@
+
+Name: The Andy Griffith Show
+
+Genre: Comedy
+
+Rating: 8.8
+
+Network: CBS
+
+Summary: Down-home humor and an endearing cast of characters helped to make The Andy Griffith Show one of the most beloved comedies in the history of television. Introduced as a spinoff from The Danny Thomas Show in 1960, The Andy Griffith Show ran for eight seasons in prime time. Widower Andy Taylor divides his time between raising his young son, Opie, and his job as sheriff (and Justice of the Peace) of the sleepy North Carolina town, Mayberry. Andy and Opie live with Andy's Aunt Bee, who serves as a surrogate mother to both father and son. Andy's nervous cousin, Barney Fife, is his deputy sheriff whose utter incompetence is tolerated because Mayberry is virtually crime-free.
+
+Name: Scrubs
+
+Genre: Drama,Comedy,Medical
+
+Rating: 8.7
+
+Network: ABC
+
+Summary: Fresh out of medical school, new doctors John "J.D." Dorian, his best friend Christopher Turk, and Elliot Reid start their internship at Sacred Heart Hospital. There, they meet the harsh Chief of Medicine Dr. Bob Kelso, J.D.'s reluctant mentor Dr. Perry Cox, nurse Carla Espinosa, and the deceitful and prankish Janitor. Also at the hospital are the wide range of personalities of Sacred Heart's staff, including the religious nurse Laverne Roberts, incompetent lawyer Ted Buckland, and spiteful board member Jordan Sullivan who also happens to be Cox's ex-wife. Other interns make the cut, such as the high-fiving Todd Quinlan and nervous Doug Murphy. Over the next 9 years they face personal and professional highs and lows, realizing that they can't make it through life - much less a hectic job as a doctor - on their own.
+
+Name: Married... with Children
+
+Genre: Comedy,Family
+
+Rating: 8.3
+
+Network: FOX
+
+Summary: Married... with Children follows the lives of Al Bundy, a once glorious high school football player turned hard-luck women's shoe salesman; his obnoxious wife, Peggy; their attractive, promiscuous, and clueless daughter, Kelly; and their girl-crazy, wisecracking son, Bud. Their neighbors are the upwardly-mobile Steve Rhoades and his feminist wife Marcy, who later gets remarried to Jefferson D'Arcy, a white-collar criminal who becomes her "trophy husband" and Al's sidekick.
+
+Name: Brad Pitt
+
+Birthday: 1963-12-18
+
+Gender: Male
+
+Country: United States
+
+URL: http://www.tvmaze.com/people/45790/brad-pitt
